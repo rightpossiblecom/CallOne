@@ -1,0 +1,14 @@
+App Name: CallOne
+Short Description: Manage your communications seamlessly with CallOne. Simple, clean, effective.
+
+Full Description:
+Welcome to CallOne, your essential companion for seamless and organized communication. Designed with a premium, minimalist aesthetic, CallOne helps you focus on what matters most by keeping your contacts and reminders perfectly synced. 
+
+Key Features:
+- Clean and intuitive interface optimized for focus
+- Efficient contact management and smart reminders
+- Beautiful design with elegant dark and light modes tailored to your preference
+- Secure, fast, and highly responsive user experience
+- No unnecessary bloatware, just the essential tools you need
+
+Experience communication the way it was meant to be—simple, beautiful, and strictly intentional. Download CallOne today and take control of your daily interactions.
